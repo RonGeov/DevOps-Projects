@@ -3,9 +3,9 @@
 ![AWS](https://imgur.com/b9iHwVc.png)
 
 ### TABLE OF CONTENTS
-1. [Goal](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#goal)
-2. [Pre-Requisites](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#pre-requisites)
-3. [Pre-Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#pre-deployment)
+1. [Goal](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/Project-01.md#goal)
+2. [Pre-Requisites](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/Project-01.md#pre-requisites)
+3. [Pre-Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps-Project-01/Project-01.md#pre-deployment)
 4. [VPC Deployment](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#vpc-deployment)
 5. [Maven (Build)](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#maven-build)
 6. [3-Tier Architecture](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Project-01.md#3-tier-architecture)
@@ -22,7 +22,7 @@ Goal of this project is to deploy scalable, highly available and secured Java ap
 ## Pre-Requisites
 
 1. Create AWS Free Tier account
-2. Create GitHub account and create repository to keep this Java [Source Code](https://github.com/NotHarshhaa/DevOps-Projects/blob/master/DevOps%20Project-01/Java-Login-App)
+2. Create GitHub account and create repository to keep this Java [Source Code](https://github.com/NotHarshhaa/DevOps-Projects/tree/master/DevOps-Project-01/Java-Login-App)
 3. Migrate Java Source Code to your own GitHub repository
 4. Create account in Sonarcloud.
 5. Create account in Jfrog cloud.
